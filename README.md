@@ -43,7 +43,8 @@
 ###
 
 <p align="left">Languages :</p>
-![image]({https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E})
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+
 
 <p align="left">Developer Tools :</p>
 
