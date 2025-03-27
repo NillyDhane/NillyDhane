@@ -42,14 +42,13 @@
 
 ###
 
-<p align="left">Languages :</p> 
-<div style="display: flex; gap: 8px;">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://camo.githubusercontent.com/4949fe954bbdfb18d817aa3045bc8a6cc619291bd6942b9d3a561741c3b58c61/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73716c2d2532333037343035652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</div>
+<p align="left">Languages: 
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://camo.githubusercontent.com/4949fe954bbdfb18d817aa3045bc8a6cc619291bd6942b9d3a561741c3b58c61/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73716c2d2532333037343035652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 
 <p align="left">Developer Tools :</p>
